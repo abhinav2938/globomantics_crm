@@ -1,1 +1,2 @@
-# globomantics_crm
+# globomantics_crm app
+under development
