@@ -7,10 +7,11 @@ where business and consumer customer are observer
 """
 
 class BusinessCustomer:
-	def __init__(self,accnt_id,money_owd):
+	def __init__(self,accnt_id,mney_owd):
 		"""
 		constructor to store account Id and money owed
 		"""
+		#changes from online
 		self.accnt_id = accnt_id
 		self.money_owd = money_owd
 
