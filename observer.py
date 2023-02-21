@@ -13,7 +13,7 @@ class BusinessCustomer:
 		"""
 		#changes from online
 		self.accnt_id = accnt_id
-		self.money_owd = money_owd
+		self.mney_owd = mney_owd
 
 	
 	def update(self):
