@@ -11,9 +11,8 @@ class BusinessCustomer:
 		"""
 		constructor to store account Id and money owed
 		"""
-		#changes from online
 		self.accnt_id = accnt_id
-		self.mney_owd = money_owd
+		self.money_owd = money_owd
 
 	
 	def update(self):
